@@ -18,7 +18,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - **HTML/CSS:** HTML foi usado para a estrutura da página, e CSS foi usado para a estilização e layout.
 
 - **Poke API:** Esta aplicação consome a [Poke API](https://pokeapi.co/), que é uma API pública que fornece dados sobre Pokémon.
-- 
+  
 ## Funcionalidades
 
 - Pesquisar Pokémon por nome.
