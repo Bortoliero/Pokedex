@@ -28,14 +28,14 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 ## Funcionamento
 A aplicação é composta por três componentes principais que trabalham juntos para fornecer uma experiência de busca e exibição de informações sobre Pokémon:
 
-BuscaPokemon
+# BuscaPokemon
 O componente BuscaPokemon é responsável por permitir aos usuários buscar Pokémon pelo nome. Funciona da seguinte maneira:
 
 O usuário digita o nome do Pokémon desejado na caixa de pesquisa.
 Ao clicar no botão "Buscar", o componente BuscaPokemon faz uma requisição à PokeAPI para obter os dados do Pokémon com base no nome fornecido.
 Os dados do Pokémon são recuperados com sucesso e passados para o componente App.
 
-Informacao
+# Informacao
 O componente Informacao é responsável por exibir informações detalhadas sobre o Pokémon selecionado. Ele exibe os seguintes detalhes:
 
 Nome do Pokémon.
@@ -44,7 +44,7 @@ Tipo do Pokémon.
 Peso do Pokémon.
 Altura do Pokémon.
 
-App
+# App
 O componente principal App desempenha um papel crucial na aplicação. Ele realiza as seguintes tarefas:
 
 Renderiza o logotipo do Pokémon na parte superior da página.
