@@ -1,6 +1,6 @@
 # Projeto Pokedex com PokeAPI
 
-![Pokemon Logo](./src/img/pokemon3d.png)
+![Pokemon Logo](./src/img/pokemon3d.png){width=300px}
 
 Este projeto é uma aplicação web que aproveita a Poke API para fornecer informações detalhadas sobre Pokémon. Ele foi desenvolvido usando tecnologias modernas e destina-se a ajudar os fãs de Pokémon a explorar e aprender mais sobre essas criaturas fascinantes.
 
