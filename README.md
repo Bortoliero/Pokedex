@@ -1,6 +1,6 @@
 # Projeto Pokedex com PokeAPI
 
-[](pokemon3d.png)
+[Logo](pokemon3d.png)
 
 Este projeto é uma aplicação web que aproveita a Poke API para fornecer informações detalhadas sobre Pokémon. Ele foi desenvolvido usando tecnologias modernas e destina-se a ajudar os fãs de Pokémon a explorar e aprender mais sobre essas criaturas fascinantes.
 
@@ -50,8 +50,8 @@ Altura do Pokémon.
 
 O componente principal App desempenha um papel crucial na aplicação. Ele realiza as seguintes tarefas:
 
-Renderiza o logotipo do Pokémon na parte superior da página.
-Exibe um título informativo para orientar os usuários na busca por Pokémon.
-Renderiza os componentes BuscaPokemon e Informacao na página, permitindo que os usuários interajam com eles.
-Gerencia o estado dos dados do Pokémon, garantindo que os dados obtidos na busca sejam passados corretamente para o componente Informacao para exibição.
-Em resumo, a aplicação é projetada de forma eficiente para permitir que os usuários pesquisem Pokémon pelo nome e visualizem informações detalhadas sobre eles de maneira fácil e intuitiva. Cada componente desempenha um papel específico para fornecer essa funcionalidade.
+- Renderiza o logotipo do Pokémon na parte superior da página.
+- Exibe um título informativo para orientar os usuários na busca por Pokémon.
+- Renderiza os componentes BuscaPokemon e Informacao na página, permitindo que os usuários interajam com eles.
+- Gerencia o estado dos dados do Pokémon, garantindo que os dados obtidos na busca sejam passados corretamente para o componente Informacao para exibição.
+- Em resumo, a aplicação é projetada de forma eficiente para permitir que os usuários pesquisem Pokémon pelo nome e visualizem informações detalhadas sobre eles de maneira fácil e intuitiva. Cada componente desempenha um papel específico para fornecer essa funcionalidade.
