@@ -13,6 +13,8 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 - **JavaScript:** A linguagem de programação principal do projeto é o JavaScript.
 
+- **Axios:** A biblioteca Axios é utilizada para fazer requisições à Poke API e buscar informações sobre os Pokémon.
+
 - **HTML/CSS:** HTML foi usado para a estrutura da página, e CSS foi usado para a estilização e layout.
 
 - **Poke API:** Esta aplicação consome a [Poke API](https://pokeapi.co/), que é uma API pública que fornece dados sobre Pokémon.
