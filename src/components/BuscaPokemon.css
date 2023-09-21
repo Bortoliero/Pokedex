@@ -1,0 +1,36 @@
+.Search {
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    color: #e3350d;
+  }
+
+  h3 {
+    color: #102265;
+  }
+  
+  button {
+    background-color: #1f0de3;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    cursor: pointer;
+    border-radius: 10px;
+  }
+  
+  button:hover {
+    background-color: #26267a;
+  }
+  
+  input {
+    padding: 8px;
+    margin-right: 8px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+  }
+  
+  .PokemonInfo {
+    margin-top: 20px;
+  }
